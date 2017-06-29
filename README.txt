@@ -1,1 +1,1 @@
-This is installable via pip and is called Apples_Game. The most recent version works correctly which I believe is 1.0.3. This was a practice app to see how python code is packaged and readily available for others to download and install from Pypi. 
+This is installable via pip and is called Apples_Game. The most recent version works correctly which I believe is 0.1.3. This was a practice app to see how python code is packaged and readily available for others to download and install from Pypi. 
